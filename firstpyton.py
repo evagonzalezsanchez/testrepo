@@ -1,2 +1,2 @@
 # Display the output
-pint("New Pyton File")
+print("New Pyton File")
